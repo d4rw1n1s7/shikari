@@ -1,6 +1,6 @@
 {
   "name": "shikari",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shikari is a library that provides a way to generate a CSS selector of a given DOM element",
   "license": "MIT",
   "repository": {
@@ -13,7 +13,9 @@
     "url": "http://d4rw1n1s7.github.io/"
   },
   "keywords": [
-    "css, path, selector, element"
+    "css-selector",
+    "generator",
+    "dom-element"
   ],
   "files": [
     "dist"
