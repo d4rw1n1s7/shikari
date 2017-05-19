@@ -23,13 +23,11 @@
   "scripts": {
     "test": "gulp test"
   },
-  "dependencies": {
-    "@types/node": "6.0.31",
-    "@types/phantom": "3.2.1"
-  },
   "devDependencies": {
     "@types/chai": "3.4.30",
     "@types/mocha": "2.2.29",
+    "@types/node": "6.0.31",
+    "@types/phantom": "3.2.1",
     "chai": "3.5.0",
     "del": "^2.2.1",
     "dotbin": "^1.0",
