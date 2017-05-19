@@ -23,8 +23,7 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
-    "test": "gulp test",
-    "postinstall": "gulp build"
+    "test": "gulp test"
   },
   "devDependencies": {
     "@types/chai": "3.4.30",
