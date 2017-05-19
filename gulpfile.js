@@ -9,7 +9,7 @@ var mocha = require('gulp-mocha');
 var gulp = require('gulp-help')(gulp);
 var path = require('path');
 var del = require('del');
-var tslintCustom = require('tslint'); // for tslint-next https://github.com/panuhorsmalahti/gulp-tslint#specifying-the-tslint-module
+var tslintCustom = require('tslint');
 require('dotbin');
 
 var tsFilesGlob = (function (c) {
