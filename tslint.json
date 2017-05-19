@@ -1,0 +1,12 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "max-line-length": [
+      false
+    ],
+    "no-reference": false,
+    "whitespace": [
+      false
+    ]
+  }
+}
